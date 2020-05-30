@@ -5,7 +5,7 @@ Robos - robokassa integration module in JavaScript
 ### Features
 
 <img src="https://robokassa.com/img/16548865.svg">
-<br/>
+
 - This module will help you use the [ROBOKASSA](https://robokassa.com/ "ROBOKASSA") payment system for JavaScript.
 - Independent functionality in the implementation of the class, allows mobile use of this module anywhere in the application.
 
@@ -13,8 +13,6 @@ Robos - robokassa integration module in JavaScript
 ```shell
 $ npm i robos
 ```
-
-<br/>
 
 ### Usage
 
