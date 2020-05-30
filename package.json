@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/uncodegem/robos/issues"
   },
-  "homepage": "https://github.com/uncodegem/robos#readme"
+  "homepage": "https://github.com/uncodegem/robos#readme",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
 }
