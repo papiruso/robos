@@ -1,0 +1,24 @@
+{
+  "name": "robos",
+  "version": "1.0.1",
+  "description": "Robos - robokassa integration module in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncodegem/robos.git"
+  },
+  "keywords": [
+    "javascript",
+    "robokassa",
+    "payment-service"
+  ],
+  "author": "uncodegem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uncodegem/robos/issues"
+  },
+  "homepage": "https://github.com/uncodegem/robos#readme"
+}
