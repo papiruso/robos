@@ -6,8 +6,6 @@
  * DOCS ROBOKASSA - https://docs.robokassa.ru/
  */
 
-/* eslint-disable max-len */
-/* eslint-disable arrow-body-style */
 const md5 = require('md5');
 
 const ROBOKASSA_PAY_URL = 'https://auth.robokassa.ru/Merchant/Index.aspx';
