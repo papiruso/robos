@@ -40,7 +40,7 @@ robos.generateUrl(price, invId, desc);
 |  generateSignature | signature generation to create a link (создание ссылки для редиректа или перехода на страницу оплаты). **return: STRING**  |
 | checkPay | checks for successful payment (проверка на успешную оплату). **return: BOOLEAN** |
 
-### Configs
+### Configuration
 |  Name  |  Description  |
 | ------------ | ------------ |
 | mrhLogin  | Store identifier specified in the “Technical settings”section of your store (Идентификатор магазина, прописанный в разделе «Технические настройки» Вашего магазина)   |
